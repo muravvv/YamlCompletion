@@ -10,7 +10,7 @@ export OPENAI_API_KEY=my_key
 python YamlCompletion.py <options> MyRequest.yaml
 ```
 
-For Windows users also pre-built package with all libraries included is available from the [releases page]().
+For Windows also pre-built package with all libraries included is available from the [releases page](https://github.com/muravvv/YamlCompletion/releases).
 
 ## Options
 
